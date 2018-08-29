@@ -1,0 +1,19 @@
+﻿<Properties StartupConfiguration="{61BA9C4F-5C70-48D1-BEC8-F5EFCB8F71A6}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="MVCRazorApp/Notes/Notes.txt">
+    <Files>
+      <File FileName="MVCRazorApp/Notes/Notes.txt" Line="24" Column="1" />
+      <File FileName="MVCRazorApp/packages.config" Line="1" Column="1" />
+      <File FileName="README.md" Line="4" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint traceExpression="{movie.ID}" file="/Users/paulosilva/Projects/Mono.NET/Tests/MVCRazorApp/MVCRazorApp/Controllers/MoviesController.cs" line="64" column="1" />
+      <Breakpoint file="/Users/paulosilva/Projects/Mono.NET/Tests/MVCRazorApp/MVCRazorApp/Controllers/MoviesController.cs" line="61" column="1" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.MVCRazorApp PreferredExecutionTarget="MonoDevelop.Default" />
+  <MultiItemStartupConfigurations />
+</Properties>
